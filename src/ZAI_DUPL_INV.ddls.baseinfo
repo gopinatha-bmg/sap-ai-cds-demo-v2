@@ -1,0 +1,10 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "BSEG",
+      "BKPF",
+      "LFA1",
+      "T001"
+    ]
+  }
+}
