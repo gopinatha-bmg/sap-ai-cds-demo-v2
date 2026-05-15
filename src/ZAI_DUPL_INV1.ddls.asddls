@@ -1,6 +1,6 @@
 @AbapCatalog.compiler.compareFilter: true
 @AbapCatalog.preserveKey: true
-@AbapCatalog.sqlViewName: 'ZV_DUP_INV'
+@AbapCatalog.sqlViewName: 'ZV_DUP_INV1'
 
 @AccessControl.authorizationCheck: #CHECK
 
