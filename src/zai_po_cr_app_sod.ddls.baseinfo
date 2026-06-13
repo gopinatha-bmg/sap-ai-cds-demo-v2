@@ -1,0 +1,10 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "EKKO",
+      "EKPO",
+      "CDHDR",
+      "CDPOS"
+    ]
+  }
+}
