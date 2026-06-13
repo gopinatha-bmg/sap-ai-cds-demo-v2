@@ -5,7 +5,7 @@
    <DDLS>
     <DDLNAME>ZAI_PO_CR_APP_SOD</DDLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
-    <DDTEXT>PO Creator = Approver SoD Violation</DDTEXT>
+    <DDTEXT>PO Creator Equals Approver - SoD Check</DDTEXT>
     <SOURCE_TYPE>V</SOURCE_TYPE>
    </DDLS>
   </asx:values>
