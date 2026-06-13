@@ -1,0 +1,4 @@
+@EndUserText.label: 'PO Creator Equals Approver - SoD'
+define service ZSD_PO_CR_APP {
+  expose ZAI_PO_CR_APP;
+}
