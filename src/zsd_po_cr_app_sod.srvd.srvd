@@ -1,0 +1,4 @@
+@EndUserText.label: 'PO Creator = Approver SoD Violation'
+define service ZSD_PO_CR_APP_SOD {
+  expose ZAI_PO_CR_APP_SOD;
+}
